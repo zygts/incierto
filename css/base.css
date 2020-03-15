@@ -8,6 +8,8 @@ h1 {
     position: absolute;
     color: white;
     text-align: center;
+    z-index: 999;
+    width: 100vh;
 }
 
 :root {
